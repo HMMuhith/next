@@ -1,6 +1,6 @@
 import { NextRequest,NextResponse } from "next/server";
 import bcrypt from 'bcrypt';
-import Profile from '../../../../../../mongodb/schema.js'
+import Profile from '../../../../../mongodb/schema.js'
 
 export const POST=async(request)=>{
 const formData=await request.formData()

@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { Product } from "../../../../../../mongodb/schema";
+import { Product } from "../../../../../mongodb/schema";
 
 
 export const POST=async(request)=>{

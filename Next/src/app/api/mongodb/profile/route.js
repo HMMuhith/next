@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { Profile } from "../../../../../../mongodb/schema";
+import { Profile } from "../../../../../mongodb/schema";
 import jwt from 'jsonwebtoken'
 import Auth from "@/app/auth/mongoauth";
 

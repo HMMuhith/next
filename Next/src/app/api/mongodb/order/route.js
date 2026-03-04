@@ -1,5 +1,5 @@
 import Auth from "@/app/auth/mongoauth"
-import { Orders, Product } from "../../../../../../mongodb/schema"
+import { Orders, Product } from "../../../../../mongodb/schema"
 import { NextResponse } from "next/server"
 
 export const POST=async(request)=>{

@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import db from '../../../../../../mysql/sql';
+import db from '../../../../../mysql/sql';
 import Auth from "@/app/auth/sqlauth";
 
 export const GET=async(request)=>{

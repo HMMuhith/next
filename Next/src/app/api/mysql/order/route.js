@@ -1,5 +1,5 @@
 import Auth from "@/app/auth/sqlauth"
-import db from "../../../../../../mysql/sql"
+import db from "../../../../../mysql/sql"
 import { NextResponse } from "next/server"
 
 

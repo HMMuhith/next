@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server"
-import { Profile } from "../../../../../../mongodb/schema"
+import {Profile} from '../../../../../mongodb/schema'
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken'
 

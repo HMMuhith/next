@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import db from "../../../../../../mysql/sql";
+import db from "../../../../../mysql/sql";
 
 
 export const POST=async(request)=>{
