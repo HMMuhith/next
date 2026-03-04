@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme  {
+--animate-wink: blink 1s step-end infinite; 
+--color-background: #90a1b9;
+--color-background-receiver:#d1d5dc;
+--color-background-sender: #4a5565;
+--color-background-form: rgba(0, 0, 0, 0.15)
+@keyframes blink{
+  0%,50%,100%{
+    opacity: 1;
+  }
+  25%,75%{
+opacity: 0;
+  }
+}
+}

@@ -1,0 +1,69 @@
+1. Website Creation & Design
+
+Full website development (WordPress, Shopify, Wix, Squarespace)
+
+Landing pages & sales pages
+
+Custom HTML/CSS/JS websites
+
+Responsive/mobile-friendly design
+
+2. E-commerce Development
+
+Shopify store setup & customization
+
+WooCommerce setup and design
+
+Payment gateway integration
+
+Product import & inventory setup
+
+3. Front-end Development
+
+HTML/CSS/JS websites
+
+React, Angular, or Vue.js single-page applications
+
+Website animations and interactivity
+
+UI/UX improvements and optimization
+
+4. Back-end Development
+
+PHP, Node.js, Python (Django, Flask) development
+
+Database setup (MySQL, MongoDB, PostgreSQL)
+
+API integration and creation
+
+Website performance optimization
+
+5. Website Maintenance & Bug Fixes
+
+Debugging & troubleshooting website issues
+
+Website speed optimization
+
+Security fixes
+
+Plugin/theme updates for CMS platforms
+
+6. Custom Web Applications
+
+SaaS applications
+
+Admin dashboards
+
+Booking/reservation systems
+
+Membership or subscription websites
+
+7. Specialized Services
+
+WordPress theme or plugin development
+
+Web scraping & automation scripts
+
+SEO-friendly website setup
+
+Integration with third-party tools (Mailchimp, Zapier, Stripe)
