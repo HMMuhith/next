@@ -1,5 +1,5 @@
 'use client'
-import { useEffect, useState } from "react";
+import { useEffect, useState,Suspense } from "react";
 import { TypeEffect } from "../components/typeeffect";
 import { SlideText } from "../components/slidingtext";
 import Popup from "../popup";
@@ -35,7 +35,9 @@ useEffect(()=>{
   <Popup onClose={()=>setdisplay(false)}/>
  </div>}
 <div>
+  <Suspense fallback={null}>
   <LoadingLine/>
+  </Suspense>
 </div>
 
  {/* <div>
