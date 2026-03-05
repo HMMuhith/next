@@ -7,7 +7,7 @@ import LoadingSpinner from "../components/spinner";
 import Carousel from "../components/carousel";
 import LoadingLine from "../components/loadingline";
 import Statschart from "../components/progresscircle";
-import { Socket, SocketFunction } from "../components/socket";
+import {  SocketFunction } from "../components/socket";
 import Pagination from "../components/pagination";
 
 export default function MainPage() {

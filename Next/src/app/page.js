@@ -1,7 +1,7 @@
 'use client'
 
 import MainLayout from "./(main)/layout"
-import MainPage from "./(main)/page"
+import MainPage from "./(main)/Mainpage"
 
 
 
