@@ -12,8 +12,8 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata = {
-  title: "Fiverr",
-  description: "Motto to collect fiverr files",
+  title: "Next",
+  description: "Motto to collect next files",
 };
 
 export default function RootLayout({ children }) {
