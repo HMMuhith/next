@@ -2,7 +2,7 @@
 import { useState,useEffect } from "react"
 
 export const TypeEffect=()=>{
-     const words = ["hello", "world", "Muhith", "hi", "developer", "web"];
+     const words = ["hello", "world", "Muhith", "hi", "web","developer"];
 
  const [Index,setIndex]=useState(0)
  const [subindex,setsubindex]=useState(0)
